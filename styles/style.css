@@ -119,6 +119,10 @@ body {
   width: 50px;
 }
 
+.header-call p {
+  line-height: 20px;
+}
+
 .header-book a {
   font-family: "DM Serif Display", serif;
   font-size: 18px;
