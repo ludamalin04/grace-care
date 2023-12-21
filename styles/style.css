@@ -769,6 +769,8 @@ body {
 @media (max-width: 500px) {
   .contact-popup {
     width: 80%;
+    left: 10%;
+    margin-left: 0;
   }
 }
 
